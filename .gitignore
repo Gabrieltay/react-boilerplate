@@ -5,8 +5,6 @@ node_modules
 stats.json
 .pnp
 .pnp.js
-.vscode
-.idea
 
 # misc
 .DS_Store
